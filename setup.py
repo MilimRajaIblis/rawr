@@ -5,8 +5,8 @@ import random
 import getpass
 import time
 import sys
-from Crypto import Random
-from Crypto.Cipher import AES
+import Random
+import AES
 import os
 import os.path
 from os import listdir
