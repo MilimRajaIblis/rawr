@@ -1,7 +1,6 @@
 import os
 import socket
 import requests
-import random
 import getpass
 import time
 import sys
